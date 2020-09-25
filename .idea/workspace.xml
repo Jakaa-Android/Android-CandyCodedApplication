@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,33 +153,53 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Check My Work for this Project">
+      <created>1601002779030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601002779030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Check My Work for this Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check My Work for this Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="569" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1601001117762">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="569" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601001117762" />
-    <state width="1277" height="185" key="GridCell.Tab.0.bottom" timestamp="1601002329014">
+    <state x="300" y="49" key="CommitChangelistDialog2" timestamp="1601002775826">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601002329014" />
-    <state width="1277" height="185" key="GridCell.Tab.0.center" timestamp="1601002329014">
+    <state x="300" y="49" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601002775826" />
+    <state width="1277" height="185" key="GridCell.Tab.0.bottom" timestamp="1601009548798">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601002329014" />
-    <state width="1277" height="185" key="GridCell.Tab.0.left" timestamp="1601002329014">
+    <state width="1277" height="185" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
+    <state width="1277" height="185" key="GridCell.Tab.0.center" timestamp="1601009548798">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601002329014" />
-    <state width="1277" height="185" key="GridCell.Tab.0.right" timestamp="1601002329014">
+    <state width="1277" height="185" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
+    <state width="1277" height="185" key="GridCell.Tab.0.left" timestamp="1601009548798">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601002329014" />
+    <state width="1277" height="185" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
+    <state width="1277" height="185" key="GridCell.Tab.0.right" timestamp="1601009548798">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1277" height="185" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
     <state x="265" y="105" key="SettingsEditor" timestamp="1600973690590">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="265" y="105" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1600973690590" />
+    <state x="356" y="196" key="Vcs.Push.Dialog.v2" timestamp="1601002807941">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="356" y="196" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601002807941" />
     <state x="461" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1600999974206">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
