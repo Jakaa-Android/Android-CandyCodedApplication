@@ -12,7 +12,6 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601002779030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Check My Work for this Project">
+      <created>1601009604288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601009604288</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,26 +178,26 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="569" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601001117762" />
-    <state x="300" y="49" key="CommitChangelistDialog2" timestamp="1601002775826">
+    <state x="300" y="49" key="CommitChangelistDialog2" timestamp="1601009602438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="300" y="49" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601002775826" />
-    <state width="1277" height="185" key="GridCell.Tab.0.bottom" timestamp="1601009548798">
+    <state x="300" y="49" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601009602438" />
+    <state width="1277" height="185" key="GridCell.Tab.0.bottom" timestamp="1601010067138">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
-    <state width="1277" height="185" key="GridCell.Tab.0.center" timestamp="1601009548798">
+    <state width="1277" height="185" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601010067138" />
+    <state width="1277" height="185" key="GridCell.Tab.0.center" timestamp="1601010067137">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
-    <state width="1277" height="185" key="GridCell.Tab.0.left" timestamp="1601009548798">
+    <state width="1277" height="185" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601010067137" />
+    <state width="1277" height="185" key="GridCell.Tab.0.left" timestamp="1601010067137">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
-    <state width="1277" height="185" key="GridCell.Tab.0.right" timestamp="1601009548798">
+    <state width="1277" height="185" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601010067137" />
+    <state width="1277" height="185" key="GridCell.Tab.0.right" timestamp="1601010067137">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1277" height="185" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601009548798" />
+    <state width="1277" height="185" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601010067137" />
     <state x="265" y="105" key="SettingsEditor" timestamp="1600973690590">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
